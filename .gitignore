@@ -1,0 +1,15 @@
+# 대용량 데이터
+data/
+*.h5
+*.db
+*.parquet
+*.npy
+
+# 파이썬, 주피터 캐시, 가상환경
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+
+# 비밀번호, API 키
+.env
